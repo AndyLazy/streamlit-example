@@ -6,6 +6,7 @@ import streamlit as st
 
 """
 # Welcome to MARAZMAI
+"""
 
 result = divmod(8, 3)
 print('Quotient and Remainder = ',result)
